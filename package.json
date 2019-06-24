@@ -1,0 +1,9 @@
+{
+  "name": "dotaccess",
+  "version": "1.0.0",
+  "description": "A getter method for any object to use a dot-separated string as the key",
+  "main": "dotaccess.js",
+  "repository": "https://github.com/jazzyjackson/dotaccess.git",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "BSD-3-Clause"
+}
